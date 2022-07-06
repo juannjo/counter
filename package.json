@@ -1,0 +1,23 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juannjo/counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juannjo/counter/issues"
+  },
+  "homepage": "https://github.com/juannjo/counter#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
