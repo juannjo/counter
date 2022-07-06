@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.app {
+    margin: auto auto;
+    width: 400px;
+    height: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+#numberContainer {
+    color: brown;
+    font-size: 50px;
+}
+
+.app button {
+    width: 100px;
+    margin: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(131, 41, 41) ;
+}
